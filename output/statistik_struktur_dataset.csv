@@ -1,0 +1,4 @@
+Nama Kolom,Tipe Data,Jumlah Terisi,Jumlah Kosong,Persentase Kosong (%),Jumlah Nilai Unik
+Member_number,int64,38765,0,0.0,3898
+Date,datetime64[us],38765,0,0.0,728
+itemDescription,str,38765,0,0.0,167
