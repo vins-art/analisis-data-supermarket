@@ -1,0 +1,15 @@
+Indikator,Nilai
+Jumlah baris dataset awal,38765
+Jumlah kolom dataset,3
+Missing values sebelum pembersihan,0
+Duplikat sebelum pembersihan,759
+Jumlah baris setelah menghapus data inti kosong,38765
+Missing values setelah pembersihan,0
+Duplikat setelah pembersihan,759
+Jumlah member unik,3898
+Jumlah jenis barang unik,167
+Jumlah keranjang berdasarkan member dan tanggal,14963
+Barang paling sering muncul,whole milk
+Jumlah kemunculan barang terpopuler,2502
+Tanggal paling awal,2014-01-01
+Tanggal paling akhir,2015-12-30
