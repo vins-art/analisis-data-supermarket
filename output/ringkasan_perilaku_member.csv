@@ -1,0 +1,4 @@
+Metrik,Jumlah Member,Rata-rata,Standar Deviasi,Minimum,Q1,Median,Q3,Maksimum
+jumlah_catatan,3898.0,9.944843509492047,5.310795850646273,2.0,6.0,9.0,13.0,36.0
+jumlah_barang_unik,3898.0,8.918932786044126,4.403278188385152,1.0,6.0,8.5,12.0,26.0
+jumlah_hari_belanja,3898.0,3.8386351975371986,1.8836779535266193,1.0,2.0,4.0,5.0,11.0
