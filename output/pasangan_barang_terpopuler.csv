@@ -1,0 +1,46 @@
+Barang A,Barang B,Jumlah Dibeli Bersama,Support (%)
+whole milk,other vegetables,222,1.484
+whole milk,rolls/buns,209,1.397
+whole milk,soda,174,1.163
+whole milk,yogurt,167,1.116
+other vegetables,rolls/buns,158,1.056
+other vegetables,soda,145,0.969
+whole milk,sausage,134,0.896
+whole milk,tropical fruit,123,0.822
+other vegetables,yogurt,121,0.809
+rolls/buns,soda,121,0.809
+rolls/buns,yogurt,117,0.782
+whole milk,root vegetables,113,0.755
+whole milk,bottled water,107,0.715
+whole milk,citrus fruit,107,0.715
+other vegetables,tropical fruit,94,0.628
+rolls/buns,tropical fruit,91,0.608
+other vegetables,sausage,90,0.601
+soda,sausage,89,0.595
+soda,yogurt,87,0.581
+yogurt,sausage,86,0.575
+rolls/buns,root vegetables,86,0.575
+other vegetables,bottled water,82,0.548
+soda,tropical fruit,81,0.541
+rolls/buns,sausage,80,0.535
+other vegetables,root vegetables,79,0.528
+soda,root vegetables,79,0.528
+yogurt,tropical fruit,78,0.521
+other vegetables,citrus fruit,72,0.481
+soda,bottled water,72,0.481
+rolls/buns,bottled water,70,0.468
+rolls/buns,citrus fruit,70,0.468
+yogurt,citrus fruit,69,0.461
+yogurt,root vegetables,64,0.428
+yogurt,bottled water,57,0.381
+soda,citrus fruit,56,0.374
+root vegetables,tropical fruit,55,0.368
+tropical fruit,bottled water,53,0.354
+root vegetables,bottled water,52,0.348
+root vegetables,sausage,50,0.334
+bottled water,sausage,47,0.314
+tropical fruit,sausage,46,0.307
+tropical fruit,citrus fruit,43,0.287
+bottled water,citrus fruit,39,0.261
+root vegetables,citrus fruit,33,0.221
+sausage,citrus fruit,18,0.12
