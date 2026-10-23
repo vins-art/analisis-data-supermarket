@@ -1,1 +1,0 @@
-Pengujian tanda tangan commit GitHub.
