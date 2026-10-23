@@ -1,0 +1,10 @@
+Metrik,Nilai
+Jumlah catatan barang,38765
+Jumlah member unik,3898
+Jumlah jenis barang unik,167
+Jumlah keranjang berdasarkan member dan tanggal,14963
+Rata-rata barang unik per keranjang,2.54
+Median barang unik per keranjang,2.0
+Jumlah barang unik terbanyak dalam satu keranjang,10
+Tanggal transaksi paling awal,2014-01-01
+Tanggal transaksi paling akhir,2015-12-30
